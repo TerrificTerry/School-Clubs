@@ -1,2 +1,2 @@
 # School-Clubs
-Clubs' work in highschool
+Cross-clubs' work in highschool
